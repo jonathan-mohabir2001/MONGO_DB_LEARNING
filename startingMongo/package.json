@@ -1,0 +1,14 @@
+{
+  "name": "startingmongo",
+  "version": "1.0.0",
+  "description": "Starting up mongo db coding ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Mohabir",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
